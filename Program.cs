@@ -1,4 +1,4 @@
-string[] name = { "akshay", "shreedhar", "pramod", "surya", "hari", "goutham", "simran", "arshit" };
+string[] name = { "akshay", "shreedhar", "pramod", "surya", "hari", "goutham", "simran", "darshit" };
 foreach (string var in name)
 {
     if (var.Contains("s") == true)
